@@ -1,0 +1,9 @@
+{
+  "latest": "0.3.0",
+  "minimum_supported": "0.3.0",
+  "blocked_versions": [
+    "0.0.1","0.0.3"
+  ],
+  "enabled": true,
+  "message": "Beta build"
+}
